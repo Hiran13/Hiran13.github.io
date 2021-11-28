@@ -2,7 +2,7 @@
 caption:
   title: Diabetes Presentation
   subtitle: Bachleor's Project
-  thumbnail: https://wallpaperaccess.com/full/3701981.jpg
+  thumbnail: /assets/img/portfolio/03-thumbnail.jpg
 
 title: Diabetes Presentation
 subtitle: Final Year Bachleor's Project
