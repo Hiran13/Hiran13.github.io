@@ -1,8 +1,8 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Diabetes Presentation
+subtitle: Bachleor's Project
+image: https://wallpaperaccess.com/full/3701981.jpg
+alt:
 
 caption:
   title: Threads
