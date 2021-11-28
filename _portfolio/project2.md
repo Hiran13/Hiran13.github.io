@@ -2,7 +2,7 @@
 caption:
   title: Schizophrenia Presentation
   subtitle: Master's Project
-  thumbnail: /assets/img/portfolio/04-thumbnail.png
+  thumbnail: /assets/img/portfolio/04-thumbnail.jpg
 
 title: Schizophrenia Presentation
 subtitle: Final Year Master's Project
