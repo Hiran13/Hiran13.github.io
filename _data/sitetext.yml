@@ -12,15 +12,15 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to my portfolio!
-    text: I'm Hiran Suthar ("he·run")
+    text: I'm Hiran Suthar
     button: Tell Me More
     buttonlink: "#about"
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "My Projects & Paperwork"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   timeline:
     title: "Timeline"
@@ -48,27 +48,9 @@ en: &DEFAULT_EN
 
   about:
     title: "About Me"
-    text: "our story"
+    text: "Hiran ("he·run") - Clinical Research Professional"
     body: "I am an international Pharmacy graduate from India. I'm currently a student at Seneca College, studying towards obtaining my Graduate Certificate in Clinical Research. I'm expected to graduate in 2022, and look forward to exciting opportunities to jump-start a career in Clinical Research as a Clinical Research Associate."
     section: about
-
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
 
   footer:
     legal: "Privacy Policy"
