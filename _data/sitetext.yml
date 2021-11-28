@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to my portfolio!
-    text: I'm Hiran Suthar
+    text: Hiran Suthar
     button: Tell Me More
     buttonlink: "#about"
 
@@ -48,7 +48,7 @@ en: &DEFAULT_EN
 
   about:
     title: "About Me"
-    text: "Hiran (\"he·run\") - Clinical Research Professional"
+    text: "I'm Hiran (\"he·run\") - Clinical Research Professional"
     body: "I am an international Pharmacy graduate from India. I'm currently a student at Seneca College, studying towards obtaining my Graduate Certificate in Clinical Research. I'm expected to graduate in 2022, and look forward to exciting opportunities to jump-start a career in Clinical Research as a Clinical Research Associate."
     section: about
 
